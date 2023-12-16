@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+
+ul {
+    background-color: pink;
+    padding: 16px;
+}
+
+li {
+    margin: 12px
+}

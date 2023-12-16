@@ -1,0 +1,27 @@
+body {
+    background-color: aquamarine;
+}
+
+.content {
+    height: auto;
+}
+
+li {
+    margin: 12px 0;
+}
+
+.ingredients {
+    display: inline-block;
+    width: 350px;
+    border: 2px solid blue;
+    padding: 8px;
+    background-color: white;
+}
+
+.directions {
+    display: inline-block;
+    width: 350px;
+    border: 2px solid red;
+    padding: 8px;
+    background-color: white;
+}
